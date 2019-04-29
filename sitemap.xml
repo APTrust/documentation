@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
+     <loc>https://aptrust.github.io/documentation/</loc>
      <lastmod>2019-04-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://aptrust.github.io/documentation/architecture/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/logging/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/configuration/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/deployment/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/pharos/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/pharos/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/exchange/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/dart/</loc>
+     <lastmod>2019-04-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://aptrust.github.io/documentation/about/</loc>
      <lastmod>2019-04-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
