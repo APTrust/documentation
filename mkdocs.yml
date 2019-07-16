@@ -2,4 +2,9 @@ site_name: APTrust Technical Documenation
 nav:
     - Home: index.md
     - About: about.md
+    - DART:
+        - DART: index.md
+        - Sample: sample.md
+    - Pharos: pharos/index.md
+    - Exchange: exchange/index.md
 theme: readthedocs
